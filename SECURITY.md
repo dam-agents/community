@@ -58,6 +58,16 @@ The platform's security model is documented in the dam repository:
 
 **Out of scope:** the hosted deployment operated by IBM Research (report those through IBM's own channels), third-party services DAM integrates with, and findings that require a privilege level the threat model already grants.
 
+## How we keep the project secure
+
+Beyond handling reports, the maintainers commit to the following:
+
+- **Scanning.** Repositories are scanned for vulnerabilities in dependencies and code, and Critical and High findings are fixed rather than left open.
+- **Notifications.** A named maintainer reviews vulnerability notifications for the project's dependencies at least weekly.
+- **Spot-checks.** The maintainers spot-check the organization's repositories at least quarterly for exposed secrets, overly broad permissions, and stale access, and fix what they find.
+- **Incidents.** An actual or suspected compromise of a system the project operates, such as unauthorized access or loss of data integrity, is reported immediately to IBM's Cyber Security Incident Response Team (CSIRT), and the maintainers follow the incident manager's direction.
+  Affected users are told through a published advisory once it is safe to do so.
+
 ## Escalation path
 
 If a report stalls — no acknowledgement within the target window, or triage that goes quiet — escalate so it reaches someone:

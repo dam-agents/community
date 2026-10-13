@@ -45,6 +45,28 @@ Names are listed alphabetically by last name; the order carries no meaning.
 The escalation paths in [`SECURITY.md`](SECURITY.md) and [`COMPLAINTS.md`](COMPLAINTS.md) route an unresolved matter to the maintainer group rather than to a single person.
 When a matter concerns a specific maintainer, that maintainer recuses themselves from reviewing it.
 
+## Organization administration
+
+The `dam-agents` organization is sponsored by IBM and administered by active IBM employees.
+
+- **Ownership.** Organization owners are responsible for maintaining the organization's settings, permissions, and repositories.
+  The organization always has at least one active IBM employee as an owner.
+- **Onboarding.** A new member or maintainer is proposed by an existing maintainer in a pull request to the roster above, approved by the maintainer group, and then given the least access their role needs.
+- **Offboarding.** When someone leaves the project or their role ends, their access is removed and the roster is updated by pull request, promptly and no later than their last day where that is known.
+  Access is reviewed at least quarterly to catch anyone missed.
+- **Watching.** Organization owners watch every repository in the organization, so new issues, pull requests, and security alerts reach them.
+- **Spot-checks.** Repositories are spot-checked on the cadence set in [`SECURITY.md`](SECURITY.md#how-we-keep-the-project-secure).
+- **Internal community.** For organizational questions, whether about community management or technical direction, the owners consult IBM's internal open source community early rather than late.
+
+## If the project loses its IBM owners
+
+If no active IBM employee remains to take responsibility for the organization, the maintainers act within 90 days to either:
+
+1. **Hand off** ownership of the organization and its repositories to non-IBM maintainers who agree to this governance and the community policies, or
+2. **Archive** the repositories so they remain readable but no longer accept changes, with a notice in each README saying so.
+
+The decision and its reasoning are recorded in an issue in this repository.
+
 ## Changes to governance
 
 Changes to this document, and to the community policies it governs, are made by pull request to this repository and reviewed by the maintainers like any other change.
