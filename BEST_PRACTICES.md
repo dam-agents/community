@@ -29,7 +29,7 @@ Reach us in the open rather than by direct message, so the answer helps the next
 - Describe behaviour and decisions rather than attacking a person.
 - Don't put secrets, credentials, or private data in a public issue.
 
-If you use a coding agent such as Claude Code, the `dam` repository ships issue-writing skills you can use:
+If you use a coding agent, the `dam` repository ships issue-writing skills that work with any agent harness, such as Claude Code, Codex, or Pi:
 
 - [`draft-issue`](https://github.com/dam-agents/dam/blob/main/.agents/skills/draft-issue/SKILL.md) holds the templates and writing guidelines for each issue type (epic, feature, task, bug, or research task).
 - [`file-issue`](https://github.com/dam-agents/dam/blob/main/.agents/skills/file-issue/SKILL.md) drafts an issue, gets your approval, and files it with the `gh` CLI.
