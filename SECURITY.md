@@ -63,7 +63,7 @@ The platform's security model is documented in the dam repository:
 Beyond handling reports, the maintainers commit to the following:
 
 - **Scanning.** Repositories are scanned for vulnerabilities in dependencies and code, and Critical and High findings are fixed rather than left open.
-- **Notifications.** A named maintainer reviews vulnerability notifications for the project's dependencies at least weekly.
+- **Notifications.** The maintainers share the review of vulnerability notifications for the project's dependencies, which happens at least weekly.
 - **Spot-checks.** The maintainers spot-check the organization's repositories at least quarterly for exposed secrets, overly broad permissions, and stale access, and fix what they find.
 - **Incidents.** An actual or suspected compromise of a system the project operates, such as unauthorized access or loss of data integrity, is reported immediately to IBM's Cyber Security Incident Response Team (CSIRT), and the maintainers follow the incident manager's direction.
   Affected users are told through a published advisory once it is safe to do so.

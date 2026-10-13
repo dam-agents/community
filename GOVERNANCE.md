@@ -32,6 +32,10 @@ Names are listed alphabetically by last name; the order carries no meaning.
 | Tomáš Weiss | [@tomkis](https://github.com/tomkis) |
 | Jenna Winkler | [@jenna-winkler](https://github.com/jenna-winkler) |
 
+The roster lists maintainers only.
+The organization has other members who are not maintainers, such as designers, who contribute to the project without committing code.
+They are members of the organization and part of the community, and the roster is not a list of everyone who contributes.
+
 ## How decisions are made
 
 - **Routine changes** — bug fixes, documentation, and small improvements — are decided by normal review: a maintainer approves and merges a pull request.
