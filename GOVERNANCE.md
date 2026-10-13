@@ -54,7 +54,7 @@ The `dam-agents` organization is sponsored by IBM and administered by active IBM
 - **Onboarding.** A new member or maintainer is proposed by an existing maintainer in a pull request to the roster above, approved by the maintainer group, and then given the least access their role needs.
 - **Offboarding.** When someone leaves the project or their role ends, their access is removed and the roster is updated by pull request, promptly and no later than their last day where that is known.
   Access is reviewed at least quarterly to catch anyone missed.
-- **Watching.** Organization owners watch every repository in the organization, so new issues, pull requests, and security alerts reach them.
+- **Watching.** At least one organization owner watches the organization's repositories, so new issues, pull requests, and security alerts reach them.
 - **Spot-checks.** Repositories are spot-checked on the cadence set in [`SECURITY.md`](SECURITY.md#how-we-keep-the-project-secure).
 - **Internal community.** For organizational questions, whether about community management or technical direction, the owners consult IBM's internal open source community early rather than late.
 
