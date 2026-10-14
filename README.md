@@ -1,36 +1,44 @@
 # dam-agents community
 
-This repository is the front door to the **`dam-agents`** community.
-It holds the mission, the way we work together, and the policies that govern participation across all of the organization's repositories.
+**Building DAM in the open.**
 
-`dam-agents` builds **DAM**, the open platform for running AI agents — any harness, any model, on Kubernetes.
-The platform itself lives in [`dam-agents/dam`](https://github.com/dam-agents/dam).
-This repository is the governance and community layer that sits above it.
+DAM is an open platform for long-lived AI agents. Bring any harness and model, and run agents on Kubernetes.
 
-## Start here
+This repository is the community and governance home for [`dam-agents`](https://github.com/dam-agents). The platform lives in [`dam-agents/dam`](https://github.com/dam-agents/dam). Here you'll find our mission, governance, community guidelines, and policies for working together.
+
+## Get involved
+
+Whether you're using DAM, building on it, or contributing to the platform, start here.
+
+- **[Explore DAM](https://github.com/dam-agents/dam)** — Get started with the platform and deploy your own instance.
+- **[Browse repositories](https://github.com/orgs/dam-agents/repositories)** — Explore platform components, integrations, Starter Kits, and examples.
+- **[Ask questions and share ideas](https://github.com/dam-agents/dam/discussions)** — Learn from the community and discuss what's next.
+- **[Report bugs or propose features](https://github.com/dam-agents/dam/issues)** — Help improve the platform.
+- **[Contribute](https://github.com/dam-agents/dam/blob/main/CONTRIBUTING.md)** — Help build DAM alongside the community.
+
+## Community principles and policies
 
 | Document | What it covers |
 | --- | --- |
-| [`MISSION.md`](MISSION.md) | Why the project exists, who it serves, and our principles. |
-| [`GOVERNANCE.md`](GOVERNANCE.md) | Who maintains the project and how decisions are made. |
-| [`SECURITY.md`](SECURITY.md) | How to report a security vulnerability. |
-| [`COMPLAINTS.md`](COMPLAINTS.md) | How to raise a concern and have it tracked to resolution. |
-| [`BEST_PRACTICES.md`](BEST_PRACTICES.md) | Guidance for engaging with the project well. |
+| [MISSION.md](MISSION.md) | Why the project exists, who it serves, and our principles |
+| [GOVERNANCE.md](GOVERNANCE.md) | Maintainers, responsibilities, and decision-making |
+| [BEST_PRACTICES.md](BEST_PRACTICES.md) | How to participate and collaborate effectively |
+| [COMPLAINTS.md](COMPLAINTS.md) | How to raise a concern and track it to resolution |
+| [SECURITY.md](SECURITY.md) | How to report a security vulnerability |
 
 ## How we work
 
-We develop in the open.
-Issues, pull requests, roadmap decisions, and discussion all happen in public, so an answer helps the next person too.
-Reach us in the open rather than by direct message.
+We develop in the open. Issues, pull requests, roadmap decisions, and discussions happen publicly so everyone can learn from the conversation and contribute.
+
+**Choose the right channel:**
 
 | Channel | Use it for |
 | --- | --- |
-| [dam issues](https://github.com/dam-agents/dam/issues) | Bugs, feature requests, and proposed changes to the platform. |
-| [dam discussions](https://github.com/dam-agents/dam/discussions) | Questions, ideas, and roadmap conversation. |
-| [community issues](https://github.com/dam-agents/community/issues) | Complaints, governance questions, and concerns about the community itself. |
-| [Security advisories](https://github.com/dam-agents/dam/security/advisories) | Private vulnerability reports — see [`SECURITY.md`](SECURITY.md). |
+| [DAM issues](https://github.com/dam-agents/dam/issues) | Bugs, feature requests, and proposed platform changes |
+| [DAM discussions](https://github.com/dam-agents/dam/discussions) | Questions, ideas, and roadmap conversations |
+| [Community issues](https://github.com/dam-agents/community/issues) | Governance questions, complaints, and community concerns |
+| [Security advisories](https://github.com/dam-agents/dam/security/advisories) | Private vulnerability reports, following [SECURITY.md](SECURITY.md) |
 
 ## License
 
-The content in this repository is licensed under the [Apache License 2.0](LICENSE), the same license as the DAM platform.
-By contributing, you agree that your contributions are licensed under the same terms.
+The content in this repository is licensed under the [Apache License 2.0](LICENSE), the same license as the DAM platform. By contributing, you agree that your contributions are licensed under the same terms.
